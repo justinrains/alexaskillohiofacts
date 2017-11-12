@@ -10,6 +10,15 @@ var HELP_REPROMPT = 'What can I help you with?';
 var STOP_MESSAGE = 'Goodbye!';
 
 var data = [
+  'The first full-time automobile service station opened in 1899 in Ohio.',
+  'Life Savers candy was invented by Clarence Crane of Garrettsville, Ohio in 1912. They were touted as a “summer candy” since they didn’t melt like chocolate.',
+  'It is illegal for more than five women to live in one house in Ohio.',
+  'Ohio’s state flag is not a rectangle like other flags—it’s a pennant design, and it’s the only state flag in the United States with that design.',
+  'By state law, no one may be arrested on a Sunday or on the Fourth of July in Ohio, which is totally awesome and definitely not enforced.',
+  'The Great Serpent Mound, the largest serpent effigy in the world at a half mile long, is on a plateau overlooking Brush Creek Valley in Adams County.',
+  'The first concrete street in America, which is still in use today, was poured in 1891 near the Logan County Courthouse in Bellefontaine.',
+  'If a restaurant wants to serve horse meat in Ohio, they must display a sign that says, “Horse Meat Served Here.” Thank goodness for that.',
+  'Ohio has the largest Amish population of any state in the nation. ',
   'The first ambulance service was established in Cincinnati in 1865.', 
   'Cleveland boasts Americas first traffic light. It began on Aug. 5, 1914.', 
   'Ermal Fraze invented the pop-top can in Kettering.', 
