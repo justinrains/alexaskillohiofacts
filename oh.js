@@ -102,25 +102,39 @@ var handlers = {
         this.emit(':tell', STOP_MESSAGE);
     }
 };
-
+/*
 {
-  "intents": [
-    {
-      "intent": "GetNewFactIntent"
-    },
-    {
-      "intent": "AMAZON.HelpIntent"
-    },
-    {
-      "intent": "AMAZON.StopIntent"
-    },
-    {
-      "intent": "AMAZON.CancelIntent"
-    }
-  ]
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetNewFactIntent",
+        "samples": [
+          "I want an ohio fact",
+          "give me an ohio fact",
+          "tell me an ohio fact"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "ohio fact"
+  }
 }
 
 
-
-
+I want an ohio fact
+give me an ohio fact
+tell me an ohio fact
+*/
 
